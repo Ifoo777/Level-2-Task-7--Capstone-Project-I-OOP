@@ -1,0 +1,96 @@
+Create a class that will be used to create a customer object such as:
+customer name , contact number of the customer , address of the customer , Location or city of the customer , 
+Email address of the customer
+
+customerName String
+
+
+customerAddress String
+
+
+
+customerNumber int
+
+
+
+customerLocation String
+
+
+
+customerEmail
+
+
+ Create a constructor this method is used to initialize the attributes to the values that we specify for each object
+
+// Write a method that will return the description of the object getMethods
+
+public getCustomerName String
+
+
+public getCustomerAddress String
+
+ 
+
+public getCustomerNumber int
+
+
+public getCustomerLocation String
+
+
+public getCustomerEmail
+
+
+
+// define a method to display the contents of
+	// each variable
+	@Override
+	public String toString()
+
+Create a class that will be used to create a Restaurant object
+Nme of the Restaurant , Location of the restaurant , contact number of the restaurant  , 
+
+ restaurantName String
+
+ restaurantAddress String
+
+ restaurantNumber int
+
+ Create a constructor this method is used to initialize the attributes to the values that we specify for each object
+
+// Write a method that will return the description of the object getMethods
+
+public getRestaurantName String
+
+
+public getRestaurantAddress String
+
+
+public getRestaurantNumber int
+
+
+
+// define a method to display the contents of
+	// each variable
+	@Override
+	public String toString()
+
+Create a driver class with driver name , driver location and workload
+
+ driverName String
+
+ driverLocation String
+
+ workLoad int
+
+// Write a method that will return the description of the object getMethods
+
+public getDriverName String
+
+
+public getdriverLocation String
+
+
+public getWorkLoad int
+
+
+
