@@ -1,0 +1,20 @@
+Order number: 2985
+Customer: Irfaan
+Email: test@test.com
+Phone number: 0123456789
+Location: Cape Town
+
+You have ordered the following from Aesop�s Pizza in Port Elizabeth
+
+1 X Pepperoni pizza (R78.0)
+2 X Hawaiian pizza (R82.0)
+
+Special instructions: Extra tomato base on the Pepperoni pizza
+
+Total: R242.0
+
+Ana Ortega is nearest to the restaurant and so (he/she) will be delivering your order to you at:
+
+12 Cherry Road
+
+If you need to contact the restaurant, their number is 098 765 4321
